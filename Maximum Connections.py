@@ -108,4 +108,5 @@ if __name__ == "__main__":
     
     identify_router()
     
-""" Time Complexity of the implemented function is O(n*n) """
+""" 1 -> 3 -> 5 -> 6 -> 4 -> 5 -> 2 -> 6 """
+""" This represents the nodes and their connections with other nodes """
